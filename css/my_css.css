@@ -197,3 +197,12 @@ form {
 .like-span {
 	margin-right: 5px;
 }
+
+.date {
+    text-align: right;
+}
+.date-answer {
+    margin-top: 10px;
+    text-align: center;
+    font-size: 15px;
+}
